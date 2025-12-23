@@ -2,7 +2,7 @@ This folder should have the yelp_dataset_tar extracted
 
 data
 |___ yelp_dataset
-|   |____ yelp_academic_dataset_business.json
+|   |____ yelp_academic_dataset_business.json # primary file used
 |   |____ yelp_academic_dataset_checkin.json
 |   |____ yelp_academic_dataset_review.json
 |   |____ yelp_academic_dataset_tip.json
